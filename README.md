@@ -1,6 +1,7 @@
 # QuantumDifferentialAttack
-Source code for **A Practical-Quantum Differential Attack on Block Ciphers** (https://eprint.iacr.org/2022/489.pdf)
-
+Source code for **A Practical-Quantum Differential Attack on Block Ciphers** (https://link.springer.com/article/10.1007/s12095-023-00650-6)
+* Full-text available at - https://www.researchgate.net/publication/371983185_A_practical-quantum_differential_attack_on_block_ciphers <br>
+* eprint - https://eprint.iacr.org/2022/489.pdf
 ## Source Code 
 ### There are four files in this source code.
 * _PermutationToSwap.py_
